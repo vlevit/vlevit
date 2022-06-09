@@ -14,3 +14,17 @@
 бессмысленную войну
 
 2022-03-03
+
+
+
+<img src="https://meduza.io/image/attachments/images/007/904/981/small/BaM4jbt-dgZWb3udL5L8xg.jpg" alt="Соледар — город в Бахмутском рай
+оне Донецкой области Украины. Через него проходят основные пути снабжения украинской группировки, которая ведет ожесточенные бои с росси
+янами в Северодонецке. Сам Соледар регулярно подвергается обстрелам. Aris Messinis / AFP / Scanpix / LETA" style="max-width: 45%;">
+
+<img src="https://meduza.io/image/attachments/images/007/905/253/small/HJXs67DHanOwOuLHJHKPUQ.jpg" alt="Взрывы зажигательных боеприпасов
+ во время обстрела города Марьинка Донецкой области российскими войсками. Anna Kudriavtseva / Reuters / Scanpix / LETA" style="max-width: 45%;">
+
+<img src="https://meduza.io/image/attachments/images/007/905/305/small/fldjwR9z-bLQYWhpMew2fw.jpg" alt="Женщина на разбитой остановке в Мариуполе. Город остается под контролем российской стороны. Как утверждает советник мэра Мариуполя Петр Андрющенко, россияне сносят дома, под завалами которых могут находиться тела погибших. AFP / Scanpix / LETA" style="max-width: 45%;">
+
+<img src="https://meduza.io/image/attachments/images/007/903/304/small/iRlCSgU7DCpZmT6-MikNtA.jpg" alt="Волонтеры организовали детский праздник на площади в разрушенной мартовскими боями Бородянке под Киевом. В городе во время российской оккупации погибли сотни мирных жителей. Christopher Furlong / Getty Images" style="max-width: 45%;">
+
