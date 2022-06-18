@@ -14,3 +14,79 @@
 бессмысленную войну
 
 2022-03-03
+
+<table>
+  <tbody>
+ <tr>
+<td style="max-width:50%">
+  <img src="https://meduza.io/image/attachments/images/007/701/672/small/seI_oFKqQ7cFRg_WmdyTng.jpg" alt="Разрушенный Мариуполь">
+   <p><i>05 апреля 2022 - Мариуполь</i></p>
+   <p>Разрушенный Мариуполь</p>
+   <p><i>Reuters / Scanpix / LETA</i></p>
+ </td>
+<td>
+  <img src="https://meduza.io/image/attachments/images/007/683/503/small/aX21a1hFG8-A60_nsOgedQ.jpg" alt="Спутниковое фото, на котором виден разрушенный Мариуполь">
+   <p><i>31 марта 2022 - Мариуполь</i></p>
+   <p>Спутниковое фото, на котором виден разрушенный Мариуполь</p>
+   <p><i>Maxar Technologies / AP / Scanpix / LETA</i></p>
+ </td>
+<tr><td>
+      <img src="https://meduza.io/image/attachments/images/007/559/378/small/V8C3ux6NpjXBG6kNKW1ePA.jpg" alt="Последствия обстрела Харькова">
+       <p><i>01 марта 2022 - Харьков</i></p>
+       <p>Последствия обстрела Харькова российскими войсками</p>
+       <p><i>Sergey Dolzhenko / EPA / Scanpix / LETA</i></p>
+     </td>
+<td>
+  <img src="https://meduza.io/image/attachments/images/007/659/004/small/Q3o1aBUmeL7mHu1mNVWv5g.jpg" alt="Люди прячутся в метро Харькова, которое во время войны превратилось в бомбоубежище">
+   <p><i>25 марта 2022 - Харьков</i></p>
+   <p>Люди прячутся в метро Харькова, которое во время войны превратилось в бомбоубежище</p>
+   <p><i>Efrem Lukatsky / AP / Scanpix / LETA</i></p>
+ </td>
+<tr>
+  <td>
+    <img src="https://meduza.io/image/attachments/images/007/663/054/small/DFQtS1aFmobHvIWVZhQFCw.jpg" alt="Пожар после артиллерийских ударов по Харькову">
+     <p><i>26 марта 2022</i></p>
+     <p>Пожар после артиллерийских ударов по Харькову</p>
+     <p><i>Aris Messinis / AFP / Scanpix / LETA</i></p>
+   </td>
+    <td>
+      <img src="https://meduza.io/image/attachments/images/007/892/680/small/JxX_bKOKeMv2HoQL0_DjZA.jpg" alt="Спасатели в Харькове работают в жилом доме, пострадавшем от обстрелов">
+       <p><i>01 июня 2022</i></p>
+       <p>Спасатели в Харькове работают в жилом доме, пострадавшем от обстрелов</p>
+       <p><i>Vitalii Hnidyi / Reuters / Scanpix / LETA</i></p>
+     </td> 
+</tr>
+
+ <tr>
+    <td>
+      <img src="https://meduza.io/image/attachments/images/007/678/953/small/5Ugpt7pafDjyogbLDOIafQ.jpg" alt="Здание областной администрации в Николаеве после обстрела. Вечером под завалами спасатели обнаружили тела 12 погибших">
+       <p><i>30 марта 2022</i></p>
+       <p>Здание областной администрации в Николаеве после обстрела. Вечером под завалами спасатели обнаружили тела 12 погибших</p>
+       <p><i>Petros Giannakouris / AP / Scanpix / LETA</i></p>
+     </td>
+    <td>
+      <img src="https://meduza.io/image/attachments/images/007/645/338/small/ZLAPnVcWmdw9VvWc1vKD5A.jpg" alt="Ракета, застрявшая между могил на кладбище в Николаеве">
+       <p><i>21 марта 2022</i></p>
+       <p>Ракета, застрявшая между могил на кладбище в Николаеве</p>
+       <p><i>Bulent Kilic / AFP / Scanpix / LETA</i></p>
+     </td>
+
+ </tr>
+  <tr>
+    <td>
+      <img src="https://meduza.io/image/attachments/images/007/694/870/small/6PNhP13cXcNAnvh79NkrPA.jpg" alt="Мертвые люди на улице в городе Буча. Здесь и в других населенных пунктах Киевской области после ухода российских войск обнаружили множество тел. По информации украинских властей и СМИ, это мирные жители, убитые российскими военнослужащими.">
+       <p><i>03 апреля 2022 - Буча</i></p>
+       <p>Мертвые люди на улице в городе Буча.</p>
+      <p>  Здесь и в других населенных пунктах Киевской области после ухода российских войск обнаружили множество тел мирных жителей, убитых российскими военнослужащими.</p>
+       <p><i>Ronaldo Schemidt / AFP / Scanpix / LETA </i></p>
+     </td>
+    <td>
+      <img src="https://meduza.io/image/attachments/images/007/695/008/small/7T1QkP14s5Zqr7zRPpdWzQ.jpg" alt="Украинские солдаты фотографируются рядом с подбитым российским танком. Буча, Киевская область. ">
+       <p><i>03 апреля 2022 - Буча</i></p>
+       <p>Украинские солдаты рядом с подбитым российским танком. Буча, Киевская область. </p>
+       <p><i>Zohra Bensemra / Reuters / Scanpix / LETA </i></p>
+</td>
+  </tr>
+
+  </tbody>
+</table>
